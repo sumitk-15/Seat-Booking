@@ -13,7 +13,7 @@ function setMovieData(movieIndex, moviePrice) {
   localStorage.setItem("selectedMoviePrice", moviePrice);
 }
 
-console.log("TicketPrice" + ticketPrice);
+console.log(ticketPrice);
 
 
 // update total and count
